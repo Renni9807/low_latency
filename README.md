@@ -65,6 +65,7 @@ woosangwon@Woos-MacBook-Air low_latency_system % sudo pmset -a powermode 2
 HighPowerMode not supported on Battery Power
 woosangwon@Woos-MacBook-Air low_latency_system % sudo nice -n -20 ./low_latency_techniques                                                                                                                       
 Low Latency Trading Techniques Demo (ARM64 macOS)
+
 =================================================
 
 System Information:
@@ -75,6 +76,7 @@ System Information:
   Timer resolution: 41.6667 ns
 
 Testing Low Latency Techniques on ARM64...
+
 ==========================================
 
 1. Testing Lock-Free SPSC Queue:
